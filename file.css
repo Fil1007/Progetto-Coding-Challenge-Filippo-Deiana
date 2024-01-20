@@ -1,0 +1,59 @@
+
+body{
+    background-image: url(/Users/fili/Downloads/MaterialeEsercizioLim/background.jpg);
+    background-size: cover;
+}
+
+header{
+    color: rgb(49, 255, 26);
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color:rgb(49, 255, 26);
+    text-align: center;
+    padding-top: 20px;
+}
+
+#logo{
+    width: 25%;
+}
+
+header, main{
+    background-color: rgba(0, 0, 0, 0.554);
+}
+
+.bg-button{
+    background-color:rgb(49, 255, 26);
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+main{
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgba(0, 0, 0, 0.554);
+    color: white;
+    padding: 0px;
+}
+
+.h2inlineblock{
+    display: inline-block;
+}
+
+.statocaricamedio{
+    background-color: gold;
+    border-radius: 15%;
+    border-color: gold;
+}
+
+.statocaricaalto{
+    background-color:rgb(49, 255, 26);
+    border-radius: 15%;
+    border-color:rgb(49, 255, 26);
+}
+
+.statocaricabasso{
+    background-color: red;
+    border-radius: 15%;
+    border-color: red
+}
